@@ -13,4 +13,4 @@ if KRNL_LOADED then
   end)
 end
 _G.Key="https://www.ayee.shop/shop"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Larinax999/leak/main/khemtitgamerHUB-BF.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kiravaldus/Script/Free/xenonv2.ez"))()
