@@ -12,4 +12,4 @@ if KRNL_LOADED then
       return ainuix(f, f1)
   end)
 end
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Larinax999/leak/main/Deity_Hub_NextGen.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kiravaldus/Script/Free/deityhub.ez"))()
